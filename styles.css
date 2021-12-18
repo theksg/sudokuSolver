@@ -1,0 +1,25 @@
+#mainFrame{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* #mainFrame h1{
+    ali
+} */
+
+#puzzle{
+    margin: 0 auto ;
+    width: 415px;
+}
+
+#puzzle input{
+    width: 40px;
+    height: 40px;
+    box-sizing: 0;
+    border: 1px grey solid;
+}
+
+#solve-button{
+    margin: 20px auto ;
+}
